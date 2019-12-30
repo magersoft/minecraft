@@ -1,0 +1,28 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2019-12-30 16:39:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-12-30 16:32:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-12-30 16:39:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-12-30 16:28:52 +0300",
+      "extreme_hills": "2019-12-30 16:33:17 +0300",
+      "roofed_forest": "2019-12-30 16:33:22 +0300"
+    },
+    "done": false
+  }
+}
