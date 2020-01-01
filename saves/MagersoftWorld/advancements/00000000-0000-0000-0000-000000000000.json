@@ -90,6 +90,7 @@
       "beaches": "2019-12-30 17:53:03 +0300",
       "forest_hills": "2019-12-30 23:44:29 +0300",
       "plains": "2019-12-30 16:28:52 +0300",
+      "taiga": "2019-12-31 14:39:19 +0300",
       "ocean": "2019-12-30 17:53:07 +0300",
       "extreme_hills": "2019-12-30 16:33:17 +0300",
       "roofed_forest": "2019-12-30 16:33:22 +0300",
@@ -217,15 +218,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2019-12-30 23:00:46 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2019-12-30 22:18:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-12-30 23:00:46 +0300"
     },
     "done": true
   },
@@ -325,12 +326,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2019-12-30 23:24:05 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-12-30 23:00:52 +0300"
@@ -340,6 +335,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2019-12-30 23:00:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2019-12-30 23:24:05 +0300"
     },
     "done": true
   },
